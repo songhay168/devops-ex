@@ -1,5 +1,5 @@
 const app = require('./index');
 
-app.listen(8000, ()=>{
-    console.log("Running on 8000")
+app.listen(4000, ()=>{
+    console.log("Running on 4000")
 })
