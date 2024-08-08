@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.status(200).send('Hello, World songhay koko love whit hello!');
+  res.status(200).send('Hello, World Mirira!');
 });
 
 app.get('/user/:id', (req, res) => {
